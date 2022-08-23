@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-module gitlab.com/tymonx/go-formatter
+module github.com/Jason0727/go-formatter
 
 go 1.14
 
