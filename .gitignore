@@ -43,3 +43,5 @@
 !.dockerignore
 !.gitignore
 !.gitlab-ci.yml
+
+.idea

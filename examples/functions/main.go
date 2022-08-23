@@ -16,8 +16,7 @@ package main
 
 import (
 	"fmt"
-
-	"gitlab.com/tymonx/go-formatter/formatter"
+	"github.com/Jason0727/go-formatter/formatter"
 )
 
 func main() {

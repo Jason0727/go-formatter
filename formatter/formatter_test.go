@@ -17,6 +17,8 @@ package formatter_test
 import (
 	"bytes"
 	"fmt"
+	"github.com/Jason0727/go-formatter/formatter"
+	"github.com/Jason0727/go-formatter/mocks"
 	"net"
 	"os"
 	"os/user"
@@ -25,8 +27,6 @@ import (
 	"github.com/golang/mock/gomock"
 	"github.com/mattn/go-isatty"
 	"github.com/stretchr/testify/assert"
-	"gitlab.com/tymonx/go-formatter/formatter"
-	"gitlab.com/tymonx/go-formatter/mocks"
 )
 
 func ExampleMustFormat() {
